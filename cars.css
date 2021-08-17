@@ -1,0 +1,39 @@
+*
+    body
+    {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        padding: 2px;
+    }
+    .container
+    {
+        background-color: #d4b894;
+        padding: 70px 60px 70px 60px; 
+        font-size: 20px;
+        width: 100;
+        margin-left: 2px;
+    }
+    .navbar ul li
+{
+list-style-type:none;
+display: inline-block;
+text-align: center;
+padding-left:10vw;
+padding: 2vh;
+margin-right:10vw;
+color:rgb(235, 18, 18);
+}
+
+.navbar
+{
+ background: #d4b894;
+ color:rgb(245, 13, 13);
+ padding:1vh 6vw 1vh 6vw;
+ margin-top:2vh;
+ top: 5px;
+}
+       
+    
+
+   
+    
+    
